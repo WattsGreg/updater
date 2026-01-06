@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "date": "2026-01-06",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "SIGNATURE_HERE",
+      "url": "https://github.com/username/repo/releases/download/v1.0.1/app-setup.nsis.zip"
+    }
+  }
+}
