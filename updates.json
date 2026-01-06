@@ -4,7 +4,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV28rUVpXa29qaUd0c2Rrd0JSVXIzcUcwYVRuSTJMc1NCdVRBcFhZOTg1bmRCRmlLT05oREVheGlLRmJmKy8yQzl0c3VlWENvY3FKVmxEK1JYME5EQXZCcy82MEMvZ2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Njk1ODM5CWZpbGU6Y2FsZXZhLWZpbGUtbWFuYWdlci1hcHBfMC40LjBfeDY0LXNldHVwLmV4ZQp6ZSsrdnRQNGZxbUhWOWtaN0Jjd2ZrRDdUUTZQRWtvOS9GVFY0OVJreEN4NmZEY2NwN0U1emw0SjkwaXNXbFZTdkJ6K2NYdWJnZWtoSi9KYnh3ZDRBdz09Cg==",
-      "url": "https://github.com/WattsGreg/updater/releases/download/v0.4.0/caleva-file-manager-app_0.4.0_x64-setup.exe"
+      "url": "https://github.com/WattsGreg/updater/releases/download/0.4.0/caleva-file-manager-app_0.4.0_x64-setup.exe"
     }
   }
 }
