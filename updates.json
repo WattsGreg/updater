@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.2",
   "date": "2026-01-08",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV28rUVpXa29qaU8vVkFBSDhUMWp4dW81Z2NlQ3NjcTVDWExFMmluaWpxbW0rM3IxckhIVTcyaWd5bUR3ZTNDejBEN2h5dHE5aC9wNUVLWlJkaStxWjlsbjF0OFFnYXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODc2MjAzCWZpbGU6Y2FsZXZhLWZpbGUtbWFuYWdlci1hcHBfMC42LjBfeDY0LXNldHVwLmV4ZQpzZTRxR25SbEFncEJtSnpTSzFEWGMxbVplQyt3SmxjZTcrTktyT3ZSaGxVR3M4R3A5SXNWbUVDc3dYQTNybFBaMG5DbG1qRjdoNE1jclVWMWdpbDdDUT09Cg==",
-      "url": "https://github.com/WattsGreg/updater/releases/download/0.6.0/caleva-file-manager-app_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV28rUVpXa29qaUdHcEZ6d3hENG5IVG9OVll6dHZRNXFFOHZaQVowNDFSYXBmWC9PQzJ2TUJxUFhvVG5INUdsK05rYjVnMHFuTk90NDhaYm5rMmxuV0IvSFdnTWpDMWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODgwNDI1CWZpbGU6Y2FsZXZhLWRhdGEtbWFuYWdlci1hcHBfMC42LjJfeDY0LXNldHVwLmV4ZQpWeFFtN1Z2VWVJU2RCYXV1RGh0ZnFCZDJSQmdVdUdoT3ZRNWJXRVVzeU50bmFPY0UrZU9vV3orSlFLY2hrdHFEMWxhQm9Pd0NOK0FNSUdSSjFRSElDUT09Cg==",
+      "url": "https://github.com/WattsGreg/updater/releases/download/0.6.2/caleva-data-manager-app_0.6.2_x64-setup.exe"
     }
   }
 }
